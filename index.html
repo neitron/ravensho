@@ -7,20 +7,40 @@
     <style>
         body {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
             margin: 0;
             background-color: black;
+            overflow: hidden; /* Disable scrolling */
         }
         img {
             width: 25%;
             height: auto;
             display: block;
         }
+        footer {
+            position: absolute;
+            bottom: 10px;
+            width: 100%;
+            text-align: center;
+        }
+        footer a {
+            color: white;
+            text-decoration: none;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <img src="ravensho-logo-black.png" alt="ravensho">
+    <footer>
+        <a href="privacy-policy.html" target="_blank">"Potion Merge" game Privacy Policy</a>
+    </footer>
 </body>
 </html>
