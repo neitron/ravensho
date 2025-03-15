@@ -2,23 +2,23 @@
 
 #Appodeal
 
-appodeal.com, 252574, DIRECT
+appodeal.com, 252573, DIRECT
 
 #BidMachine
 
-bidmachine.io, 252574, DIRECT
+bidmachine.io, 252573, DIRECT
 
 #AdMob
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-6871669495302828, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
 
 #Replace the Business_ID below with your Meta Business ID
 
-facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
+facebook.com,575783402946137,RESELLER,c3e20eee3f780d68
 
 #Add other networks if applicable
 
@@ -575,5 +575,3 @@ yieldlab.net,2172218,RESELLER
 bigo.sg,1112518,reseller
 
 applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
-
-google.com, pub-6871669495302828, DIRECT, f08c47fec0942fa0
